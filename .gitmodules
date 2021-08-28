@@ -1,0 +1,12 @@
+[submodule "ftp-server-client"]
+	path = ftp-server-client
+	url = https://github.com/tahaShm/ftp-server-client.git
+[submodule "congestion-control"]
+	path = congestion-control
+	url = https://github.com/tahaShm/congestion-control.git
+[submodule "peer-to-peer-network"]
+	path = peer-to-peer-network
+	url = https://github.com/tahaShm/peer-to-peer-network.git
+[submodule "SDN-routing-ryu"]
+	path = SDN-routing-ryu
+	url = https://github.com/tahaShm/SDN-routing-ryu.git
